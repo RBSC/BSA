@@ -1,0 +1,10 @@
+--------------------------------------------
+BSA - Back Slot Adapter v1.0
+Copyright (c) 2019 RBSC
+--------------------------------------------
+
+Partslist
+---------
+
+- 50 pin cartridge slot, right angle pins - 2
+	https://www.ebay.com/itm/5pc-Industrial-Card-Edge-Slot-Socket-Connector-25x2P-50P-2-54mm-0-1-Right-Angle/130970278382
